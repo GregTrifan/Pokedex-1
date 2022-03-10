@@ -1,6 +1,6 @@
 [{
     "id": 1,
-    "name": "bulbasaur",
+    "name": "Bulbasaur",
     "types": [
         {
             "slot": 1,
@@ -25,7 +25,7 @@
 },
 {
     "id": 2,
-    "name": "ivysaur",
+    "name": "Ivysaur",
     "types": [
         {
             "slot": 1,
@@ -50,7 +50,7 @@
 },
 {
     "id": 3,
-    "name": "venusaur",
+    "name": "Venusaur",
     "types": [
         {
             "slot": 1,
@@ -75,7 +75,7 @@
 },
 {
     "id": 4,
-    "name": "charmander",
+    "name": "Charmander",
     "types": [
         {
             "slot": 1,
@@ -94,7 +94,7 @@
 },
 {
     "id": 5,
-    "name": "charmeleon",
+    "name": "Charmeleon",
     "types": [
         {
             "slot": 1,
@@ -138,7 +138,7 @@
 },
 {
     "id": 7,
-    "name": "squirtle",
+    "name": "Squirtle",
     "types": [
         {
             "slot": 1,
